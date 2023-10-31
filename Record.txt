@@ -1,0 +1,21 @@
+1,John Doe,Math,A
+2,Jane Smith,Science,B
+3,Mitchell Johnson,Cricket,X
+4,Emily Brown,English,D
+5,Michael Wilson,Geography,E
+6,Susan Lee,Physics,A
+7,David Clark,Chemistry,B
+8,Lisa Davis,Biology,C
+9,Robert Taylor,Art,D
+10,Sarah Allen,Music,E
+11,Thomas Hall,Physical Education,A
+12,Carol White,Computer Science,B
+13,James Martin,Geology,C
+14,Linda Garcia,Literature,D
+15,William Brown,Foreign Language,E
+16,Patricia Anderson,Social Studies,A
+17,Charles Evans,Mathematics,B
+18,Mary Hernandez,Physics,C
+19,Michael Turner,History,D
+20,Laura Miller,Chemistry,E
+21,John Durairaj,Psychology,Z
